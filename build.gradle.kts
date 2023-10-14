@@ -35,7 +35,7 @@ dependencies {
 
     modImplementation("ca.landonjw.gooeylibs:api:3.0.0-1.20.1-SNAPSHOT")
     modImplementation("net.fabricmc.fabric-api:fabric-api:0.88.1+1.20.1")
-    modImplementation("com.cobblemon:fabric:1.4.0+1.20.1-SNAPSHOT")
+    modImplementation("com.cobblemon:fabric:1.4.0+1.20.1")
 
 
     modImplementation(fileTree("libs"))
